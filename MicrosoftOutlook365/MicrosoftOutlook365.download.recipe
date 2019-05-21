@@ -5,7 +5,7 @@
       <key>Description</key>
       <string>Downloads the latest Microsoft Outlook installer package for Office 365.</string>
       <key>Identifier</key>
-      <string>com.github.rtrouton.download.microsoftoutlook365</string>
+      <string>com.github.nichiera.download.microsoftoutlook365</string>
       <key>MinimumVersion</key>
       <string>1.0.0</string>
       <key>Input</key>
